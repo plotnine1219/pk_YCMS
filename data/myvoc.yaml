@@ -1,0 +1,8 @@
+train: E:/zz/yolov5-6.1meigai/yolov5-6.1meigai/yolov5-6.1/VOCdevkit/images/vis
+val: E:/zz/yolov5-6.1meigai/yolov5-6.1meigai/yolov5-6.1/VOCdevkit/images/vis
+
+# number of classes
+nc: 4
+
+# class names
+names: ["aircraft", "oiltank", "overpass", "playground"]
